@@ -1,11 +1,3 @@
-/*
- * Create a simple game of Battleship using 2D arrays. The user should be able to position their ship in a 3x3 array, as should the computer. Each ‘player’ should take turns choosing spots in the grid until someone hits the other ship.
-
-Note: For simplicity, each player will only have 1 ship, that takes up 1 grid slot
-
-Note: For simplicity, do not worry about repeated guesses
- */
-
 import javax.swing.JOptionPane;
 import javax.swing.ImageIcon;
 public class BattleshipApp {
